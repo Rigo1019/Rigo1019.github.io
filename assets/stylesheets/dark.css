@@ -826,7 +826,7 @@ blockquote {
       background-color: #181818; }
       .contact-list li a:hover {
         opacity: .8;
-        transform: translateX(-3px); }
+        transform: translateX(3px); }
 
 .post-box {
   margin: 0 1rem;
